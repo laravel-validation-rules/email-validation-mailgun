@@ -1,5 +1,5 @@
 # Laravel Validator Rules - Email Validation Mailgun 
-A email validation that uses the [Mailgun API](https://documentation.mailgun.com/en/latest/api-email-validation.html#email-validation) for a three-step validation check.  
+Email validation that uses the [Mailgun API](https://documentation.mailgun.com/en/latest/api-email-validation.html#email-validation) for a three-step validation check.  
 
 To find examples of how validation rules can be applied in the Laravel framework, please view the [validation docs](https://laravel.com/docs/5.6/validation).
 
