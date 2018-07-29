@@ -1,0 +1,9 @@
+{
+    "name": "laravel-validation-rules/email-validation-mailgun",
+    "description": "Metapackage for https://github.com/TheoKouzelis/laravel-mailgun-email-validation",
+    "type": "metapackage",
+    "require": {
+        "kouz/laravel-mailgun-email-validation": "^1.0"
+    },
+    "license": "MIT"
+}
